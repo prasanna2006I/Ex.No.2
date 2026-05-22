@@ -19,7 +19,20 @@ To compare the performance, user experience, and response quality of different A
 ## COPIOLT
 
 <img width="1093" height="606" alt="image" src="https://github.com/user-attachments/assets/d77bc5bb-a094-47ec-87b1-7b2638383cce" />
+## SCENARIO:
+You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
 
+Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
+
+Accuracy
+
+Coherence
+
+Simplicity
+
+Speed
+
+User experience
 
 ### Explanation:
 Define the Use Case:
@@ -41,27 +54,6 @@ Identify any platform-specific advantages, such as faster response times, more a
 Deliverables:
 A comparison table outlining the performance of each platform (ChatGPT, Claude, Bard, Cohere Command, and Meta) based on accuracy, clarity, depth, and relevance of responses.
 A final report summarizing the findings of the experiment, including recommendations on the most suitable AI platform for different use cases based on performance and user 
-
-### Output:
-# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
-
-## AIM
-To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
-
-## SCENARIO:
-You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
-
-Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
-
-Accuracy
-
-Coherence
-
-Simplicity
-
-Speed
-
-User experience
 
 ## OUTPUT
 
@@ -221,11 +213,6 @@ In role-based prompting, the AI is assigned a **specific role** to shape its res
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/383c2c26-36b0-4250-8e29-a62d31617b18" />
 
-
-
-
-
-
 * **Role-based prompting** produced the most effective summaries for educational use.
 * **Chain-of-thought prompting** improved conceptual clarity.
 * **ChatGPT** provided the most consistent high-quality summaries.
@@ -238,4 +225,6 @@ In role-based prompting, the AI is assigned a **specific role** to shape its res
 This experiment demonstrates that **prompt engineering significantly impacts the quality of AI-generated summaries**. While all platforms can perform summarization, the **combination of Role-Based Prompting with ChatGPT** delivered the most accurate, coherent, simple, and student-friendly output.
 Hence, careful selection of **prompting strategy and platform** is essential for effective AI-assisted education.
 
-# Result : The Prompt for the above problem statement executed successfully.
+# Result : 
+
+The Prompt for the above problem statement executed successfully.
