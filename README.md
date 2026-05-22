@@ -7,6 +7,7 @@
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
 ### AI Tools required:
 ## CHAT GPT
+https://storage.ghost.io/c/8d/75/8d7505f0-5d60-4c06-aaed-c7403496d2fc/content/images/size/w2000/2023/02/openAI-chat-gpt-1.jpg
 ## GEMINI
 ## CLAUDE
 ## COPIOLT
